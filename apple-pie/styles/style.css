@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.container {
+}
+
+#apple-pie-img {
+  width: 500px;
+}
+
+#texto {
+  position: absolute;
+  font-size: 32px;
+  left: 250px;
+  top: 250px;
+  color: white;
+}
+
+.img-info {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
